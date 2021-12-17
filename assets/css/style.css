@@ -62,7 +62,7 @@ p {
   font-size: 16px;
 }
 
-/* Renamed "benefits" to "benefits-aside to better distinguish it from "benefit" children elements. 
+/* Renamed "benefits" to "benefits-aside" to better distinguish it from "benefit" children elements. 
 Changed benefits-aside from a class to an id since there once only one instance of it */
 #benefits-aside {
   margin-right: 20px;
@@ -75,7 +75,7 @@ Changed benefits-aside from a class to an id since there once only one instance 
   background-color: #2589bd;
 }
 
-/* Renamed "content" to "content-section to better distinguish it from "content" children elements. 
+/* Renamed "content" to "content-section" to better distinguish it from "content" children elements. 
 Changed content-section from a class to an id since there once only one instance of it */
 #content-section {
   width: 75%;
@@ -98,7 +98,7 @@ Changed content-section from a class to an id since there once only one instance
   color: #d9dcd6;
 }
 
-/* Consolidated "benefit-lead", "benefit-brand" and "benefit-cost" into one class since they have the same declarations */
+/* Consolidated "benefit-lead", "benefit-brand" and "benefit-cost" into new class "benefit" since they have the same declarations */
 .benefit {
   margin-bottom: 32px;
   color: #ffffff;
