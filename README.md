@@ -8,7 +8,9 @@ To do so, I:
     2. Renamed div elements to semantic elements, such as header, nav, section and footer, for greater clarification.
     3. Consolidated multiple ids into a single class if they used the same CSS declerations to minimize code.
     4. Reordered selectors to be in order of tag, id and class, in alphabetical order in CSS file.
-    5. Added a descriptive title to improve search engine optimzation
+    5. Added a descriptive title to improve search engine optimization
+
+HTML | CSS
 
 # Screenshot
 
